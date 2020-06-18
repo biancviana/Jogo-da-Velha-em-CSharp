@@ -1,0 +1,10 @@
+C:\Users\Bianca Viana\Downloads\MEUS VARIADOS\C#\JOGO DA VELHA\Jogo_da_Velha\Jogo_da_Velha\bin\Debug\Jogo_da_Velha.exe.config
+C:\Users\Bianca Viana\Downloads\MEUS VARIADOS\C#\JOGO DA VELHA\Jogo_da_Velha\Jogo_da_Velha\bin\Debug\Jogo_da_Velha.exe
+C:\Users\Bianca Viana\Downloads\MEUS VARIADOS\C#\JOGO DA VELHA\Jogo_da_Velha\Jogo_da_Velha\bin\Debug\Jogo_da_Velha.pdb
+C:\Users\Bianca Viana\Downloads\MEUS VARIADOS\C#\JOGO DA VELHA\Jogo_da_Velha\Jogo_da_Velha\obj\Debug\Jogo_da_Velha.csprojAssemblyReference.cache
+C:\Users\Bianca Viana\Downloads\MEUS VARIADOS\C#\JOGO DA VELHA\Jogo_da_Velha\Jogo_da_Velha\obj\Debug\Jogo_da_Velha.Form1.resources
+C:\Users\Bianca Viana\Downloads\MEUS VARIADOS\C#\JOGO DA VELHA\Jogo_da_Velha\Jogo_da_Velha\obj\Debug\Jogo_da_Velha.Properties.Resources.resources
+C:\Users\Bianca Viana\Downloads\MEUS VARIADOS\C#\JOGO DA VELHA\Jogo_da_Velha\Jogo_da_Velha\obj\Debug\Jogo_da_Velha.csproj.GenerateResource.cache
+C:\Users\Bianca Viana\Downloads\MEUS VARIADOS\C#\JOGO DA VELHA\Jogo_da_Velha\Jogo_da_Velha\obj\Debug\Jogo_da_Velha.csproj.CoreCompileInputs.cache
+C:\Users\Bianca Viana\Downloads\MEUS VARIADOS\C#\JOGO DA VELHA\Jogo_da_Velha\Jogo_da_Velha\obj\Debug\Jogo_da_Velha.exe
+C:\Users\Bianca Viana\Downloads\MEUS VARIADOS\C#\JOGO DA VELHA\Jogo_da_Velha\Jogo_da_Velha\obj\Debug\Jogo_da_Velha.pdb
